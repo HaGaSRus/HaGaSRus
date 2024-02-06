@@ -25,4 +25,5 @@
 ### :man_technologist: About me :
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-:blush:
+Это новый тескт :blush:
+И это тоже
