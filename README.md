@@ -1,4 +1,16 @@
-### Start
+# Привет,  меня зовут Георгий!
+
+---
+
+### :man_technologist: Обо мне :
+
+Я начинающий бэкенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Мой путь в сфере технологий начался со знакомства, с различными курсами на таких площадках как Stepik и SoloLearn. Где я попробовал различные ЯП и мой интерес припал к языку Python, за его большую многофункциональность. Которая начинается от самых простых игрушек и заканчивая огромными научными исследованиями основаных на ML.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,4 +38,6 @@
 
 Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Из России.
 * :innocent: В данный момент нахожусь в поиске своей первой работы по данному профилю.
+* Увлеченно изучаю различные технологии связанные с серверной разработкой, API, ИИ и ML.
+*  
 
