@@ -10,4 +10,4 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=HaGaSRus&style=flat-square&color=blue" alt=""/>
