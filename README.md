@@ -25,5 +25,5 @@
 ### :man_technologist: Обо мне :
 
 Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Из России.
-:innocent: В данный момент нахожусь в поиске своей первой работы по данному профилю.
+* :innocent: В данный момент нахожусь в поиске своей первой работы по данному профилю.
 
