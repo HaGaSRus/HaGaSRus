@@ -17,3 +17,20 @@
 
   
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-George_Tro72-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/George_Tro72) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tro37295@gmail.com)
+
+---
+
+### Социальные сети
+
+
+  <div id="badges">
+    <a href="-----" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/George_Tro72" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/trofimovg72" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
