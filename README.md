@@ -22,8 +22,8 @@
 
 ---
 
-### :man_technologist: About me :
+### :man_technologist: Обо мне :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-Это новый тескт :blush:
-И это тоже
+Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Из России.
+:innocent: В данный момент нахожусь в поиске своей первой работы по данному профилю.
+
